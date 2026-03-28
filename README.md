@@ -8,3 +8,4 @@ _Автор [Вячеслав Землянський](https://www.linkedin.com/i
 - [Емоційний інтелект — маркетинговий хайп гуманітаріїв заради грошей](/articles/emotional-intelligence-uk.md)
 ## Гумор
 - [Просто автоматизуйте це](/articles/Just-automate-it-uk.md)
+- [Не інженер](/articles/not-an-engineer.md)
