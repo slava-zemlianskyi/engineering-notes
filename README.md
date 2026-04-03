@@ -6,6 +6,7 @@ _Автор [Вячеслав Землянський](https://www.linkedin.com/i
 - [Демократія повинна стати Інженерократією, щоб вижити](/articles/engineerocracy-is-the-future-uk.md)
 - [Гуманітарна освіта — індустрія продажу повітря з вкрапленнями знань](/articles/humanities-education-uk.md)
 - [Емоційний інтелект — маркетинговий хайп гуманітаріїв заради грошей](/articles/emotional-intelligence-uk.md)
+- [Архітектура наших міст склалася у середньовіччя](/articles/architecture-of-our-cities-uk.md)
 ## Гумор
 - [Просто автоматизуйте це](/articles/Just-automate-it-uk.md)
 - [Не інженер](/articles/not-an-engineer.md)
