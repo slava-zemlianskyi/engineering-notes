@@ -2,17 +2,19 @@
 
 _Автор [Вячеслав Землянський](https://www.linkedin.com/in/zemlianskyi/)_
 
-## Знання
+## Освіта
 - [Гуманітарна освіта — індустрія продажу повітря з вкрапленнями знань](/articles/humanities-education-uk.md)
 - [Емоційний інтелект — маркетинговий хайп гуманітаріїв заради грошей](/articles/emotional-intelligence-uk.md)
-- [Навіщо інженерам менеджери та маркетологи?](/articles/why-do-engineers-need-managers.md)
-- [Покоління зумерів не виживає у реальному житті. Криза освіти, яку створили гуманітарії](/articles/zoomers-do-not-survive-in-real-life.md)
+- [Покоління зумерів не виживає у реальному житті. Криза освіти, яку створили гуманітарії](/articles/zoomers-do-not-survive-in-real-life-uk.md)
+- [Фізика, математика та програмування — основа освіти, якої нам бракує](/articles/foundation-of-education-uk.md)
 
 ## Архітектура
 - [Архітектура наших міст склалася у середньовіччя](/articles/architecture-of-our-cities-uk.md)
-- [Робота в офісі знижує ефективність інженерів](/articles/office-work-reduces-efficiency.md)
+- [Робота в офісі знижує ефективність інженерів](/articles/office-work-reduces-efficiency-uk.md)
 
 ## Менеджмент
+- [У сучасному світі інженерна культура глобальна](/articles/engineering-culture-is-global-uk.md)
+- [Навіщо інженерам менеджери та маркетологи?](/articles/do-engineers-really-need-managers-uk.md)
 - [Демократія повинна стати Інженерократією, щоб вижити](/articles/engineerocracy-is-the-future-uk.md)
 
 ## Гумор
