@@ -17,7 +17,9 @@ _Автор [Вячеслав Землянський](https://www.linkedin.com/i
 - [У сучасному світі інженерна культура глобальна](/articles/engineering-culture-is-global-uk.md)
 - [Навіщо інженерам менеджери та маркетологи?](/articles/do-engineers-really-need-managers-uk.md)
 - [Демократія повинна стати Інженерократією, щоб вижити](/articles/engineerocracy-is-the-future-uk.md)
+- [Карго-культ технократів, або чому таблиці Excel недостатньо для реального світу](/articles/technocratic-cargo-cults-uk.md)
 
 ## Гумор
+- [Змова гуманітаріїв: чому у фільмах немає крутих інженерів](/articles/no-engineers-in-movies-uk.md)
 - [Просто автоматизуйте це](/articles/Just-automate-it-uk.md)
 - [Не інженер](/articles/not-an-engineer.md)
