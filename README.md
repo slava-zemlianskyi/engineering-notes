@@ -25,4 +25,5 @@ _Автор [Вячеслав Землянський](https://www.linkedin.com/i
 ## Гумор
 - [Змова гуманітаріїв: чому у фільмах немає крутих інженерів](/articles/no-engineers-in-movies-uk.md)
 - [Просто автоматизуйте це](/articles/Just-automate-it-uk.md)
+- [Резервація для гуманітаріїв](/articles/reservation-for-humanitarians-uk.md)
 - [Не інженер](/articles/not-an-engineer.md)
