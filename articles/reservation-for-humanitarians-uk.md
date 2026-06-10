@@ -1,4 +1,5 @@
 # Резервація для гуманітаріїв
+_Автор [Вячеслав Землянський](https://www.linkedin.com/in/zemlianskyi/), опубліковано 2026-06-05 у [Нотатки інженера](https://github.com/slava-zemlianskyi/engineering-notes/)_
 
 Ворота було видно майже з будь-якого місця в Резервації.
 
