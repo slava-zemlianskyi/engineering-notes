@@ -21,6 +21,7 @@ _Автор [Вячеслав Землянський](https://www.linkedin.com/i
 - [Навіщо інженерам менеджери та маркетологи?](/articles/do-engineers-really-need-managers-uk.md)
 - [Демократія повинна стати Інженерократією, щоб вижити](/articles/engineerocracy-is-the-future-uk.md)
 - [Карго-культ технократів, або чому таблиці Excel недостатньо для реального світу](/articles/technocratic-cargo-cults-uk.md)
+- [Гуманітарне болото — бульбашка псевдознань, яке засмоктує цивілізацію](/articles/humanitarian-quagmire-uk.md)
 
 ## Гумор
 - [Змова гуманітаріїв: чому у фільмах немає крутих інженерів](/articles/no-engineers-in-movies-uk.md)
