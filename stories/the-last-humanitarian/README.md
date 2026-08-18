@@ -12,3 +12,4 @@ _2074 рік. Для вcтупу в будь-який університет н�
 6. [Друга спроба](/stories/the-last-humanitarian/part-6-second-attempt-uk.md)
 7. [Університет](/stories/the-last-humanitarian/part-7-university-uk.md)
 8. [Літо](stories/the-last-humanitarian/part-8-summer-uk.md)
+9. [Епілог](/stories/the-last-humanitarian/epilogue-uk.md)
